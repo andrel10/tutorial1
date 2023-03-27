@@ -1,3 +1,8 @@
 testando a criação de arquivos atravez do comando notepad
+<<<<<<< HEAD
 
 testando no VScode
+=======
+feijão preto
+editando pelo site do GitHub
+>>>>>>> 79cacb553a992c2ba976072d76f561e7e4dcef44
